@@ -1,0 +1,19 @@
+{
+    "image": "assets/images/team/ronaldo.png",
+    "nationality": {
+        "country": "ENGLAND",
+        "flag": "assets/images/team/eng.webp"
+    },
+    "position": "FORWARD",
+    "height": "78 INCHES",
+    "weight": "92kg",
+    "currentTeam": "CHELSEA F.C.",
+    "gamesPlayed": 300,
+    "seasons": ["2018", "2019", "2020"],
+    "achievements": ["Domestic League Titles", "FIFA World Cup"]
+}
+
+
+
+  
+  

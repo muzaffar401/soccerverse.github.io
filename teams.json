@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "name": "MAXIELS DAVID",
+        "position": "FORWARD",
+        "number": 11,
+        "image": "assets/images/team/team01.png",
+        "social": {
+            "facebook": "#",
+            "twitter": "#",
+            "linkedin": "#"
+        }
+    },
+    {
+        "id": 2,
+        "name": "VEN DIESEL",
+        "position": "WINGER",
+        "number": 7,
+        "image": "assets/images/team/team02.png",
+        "social": {
+            "facebook": "#",
+            "twitter": "#",
+            "linkedin": "#"
+        }
+    },
+    {
+        "id": 3,
+        "name": "NED STARK",
+        "position": "WINGER",
+        "number": 9,
+        "image": "assets/images/team/team03.png",
+        "social": {
+            "facebook": "https://www.facebook.com",
+            "twitter": "https://www.twitter.com",
+            "linkedin": "https://www.linkedin.net"
+        }
+    },
+    {
+        "id": 4,
+        "name": "JOHN WICK",
+        "position": "MID-FIELDER",
+        "number": 10,
+        "image": "assets/images/team/team04.png",
+        "social": {
+            "facebook": "https://www.facebook.com",
+            "twitter": "https://www.twitter.com",
+            "linkedin": "https://www.linkedin.com"
+        }
+    },
+    {
+        "id": 5,
+        "name": "TYRION LENNISTER",
+        "position": "WINGER",
+        "number": 9,
+        "image": "assets/images/team/team05.png",
+        "social": {
+            "facebook": "https://www.facebook.com",
+            "twitter": "https://www.linkedin.com",
+            "linkedin": "https://www.linkedin.com"
+        }
+    },
+    {
+        "id": 6,
+        "name": "SAMWELL TARLY",
+        "position": "MID-FIELDER",
+        "number": 10,
+        "image": "assets/images/team/team06.png",
+        "social": {
+            "facebook": "https://www.facebook.com",
+            "twitter": "https://www.twitter.com",
+            "linkedin": "https://www.linkedin.com"
+        }
+    },
+    {
+        "id": 7,
+        "name": "EURON GREYJOY",
+        "position": "WINGER",
+        "number": 7,
+        "image": "assets/images/team/team07.png",
+        "social": {
+            "facebook": "https://www.facebook.com",
+            "twitter": "https://www.twitter.com",
+            "linkedin": "https://www.linkedin.com"
+        }
+    },
+    {
+        "id": 8,
+        "name": "JOHN SNOW",
+        "position": "FORWARD",
+        "number": 11,
+        "image": "assets/images/team/team08.png",
+        "social": {
+            "facebook": "https://www.facebook.com",
+            "twitter": "https://www.twitter.com",
+            "linkedin": "https://www.linkedin.com"
+        }
+    },
+    {
+        "id": 9,
+        "name": "Cristiano Ronaldo",
+        "position": "FORWARD",
+        "number": 7,
+        "image": "assets/images/team/ronaldo.png",
+        "social": {
+            "facebook": "https://www.facebook.com/cristiano",
+            "twitter": "https://www.twitter.com/cristiano",
+            "linkedin": "https://www.linkedin.com/in/cristiano-ronaldo"
+        }
+    },
+    {
+        "id": 10,
+        "name": "Lionel Messi",
+        "position": "FORWARD",
+        "number": 10,
+        "image": "assets/images/team/messi.png",
+        "social": {
+            "facebook": "https://www.facebook.com/leomessi",
+            "twitter": "https://www.twitter.com/leomessi",
+            "linkedin": "https://www.linkedin.com/in/leomessi"
+        }
+    },
+    {
+        "id": 11,
+        "name": "Neymar Jr.",
+        "position": "FORWARD",
+        "number": 10,
+        "image": "assets/images/team/naymar.png",
+        "social": {
+            "facebook": "https://www.facebook.com/neymarjr",
+            "twitter": "https://www.twitter.com/neymarjr",
+            "linkedin": "https://www.linkedin.com/in/neymarjr"
+        }
+    },
+    {
+        "id": 12,
+        "name": "Kylian Mbappe",
+        "position": "FORWARD",
+        "number": 20,
+        "image": "assets/images/team/mbappe.png",
+        "social": {
+            "facebook": "https://www.facebook.com/kylianmbappe",
+            "twitter": "https://www.twitter.com/kmbappe",
+            "linkedin": "https://www.linkedin.com/in/kylianmbappe"
+        }
+    },
+    {
+        "id": 13,
+        "name": "Luka Modric",
+        "position": "MID-FIELDER",
+        "number": 12,
+        "image": "assets/images/team/luka.png",
+        "social": {
+            "facebook": "https://www.facebook.com/lukamodric",
+            "twitter": "https://www.twitter.com/modric10",
+            "linkedin": "https://www.linkedin.com/in/lukamodric"
+        }
+    },
+    {
+        "id": 14,
+        "name": "Mohamed Salah",
+        "position": "FORWARD",
+        "number": 17,
+        "image": "assets/images/team/salah.png",
+        "social": {
+            "facebook": "https://www.facebook.com/mosalah",
+            "twitter": "https://www.twitter.com/mosalah",
+            "linkedin": "https://www.linkedin.com/in/mosalah"
+        }
+    },
+    {
+        "id": 15,
+        "name": "Kevin De Bruyne",
+        "position": "MID-FIELDER",
+        "number": 19,
+        "image": "assets/images/team/kevin.png",
+        "social": {
+            "facebook": "https://www.facebook.com/kevindebruyne",
+            "twitter": "https://www.twitter.com/kevindebruyne",
+            "linkedin": "https://www.linkedin.com/in/kevindebruyne"
+        }
+    },
+    {
+        "id": 16,
+        "name": "Robert Lewandowski",
+        "position": "FORWARD",
+        "number": 5,
+        "image": "assets/images/team/robert.png",
+        "social": {
+            "facebook": "https://www.facebook.com/rl9",
+            "twitter": "https://www.twitter.com/lewy_official",
+            "linkedin": "https://www.linkedin.com/in/lewandowski"
+        }
+    },
+    {
+        "id": 17,
+        "name": "Sergio Ramos",
+        "position": "DEFENDER",
+        "number": 6,
+        "image": "assets/images/team/sergio.png",
+        "social": {
+            "facebook": "https://www.facebook.com/sergioramos",
+            "twitter": "https://www.twitter.com/sergioramos",
+            "linkedin": "https://www.linkedin.com/in/sergioramos"
+        }
+    },
+    {
+        "id": 18,
+        "name": "Virgil van Dijk",
+        "position": "DEFENDER",
+        "number": 14,
+        "image": "assets/images/team/virgil.png",
+        "social": {
+            "facebook": "https://www.facebook.com/virgilvandijk",
+            "twitter": "https://www.twitter.com/virgilvandijk",
+            "linkedin": "https://www.linkedin.com/in/virgilvandijk"
+        }
+    },
+    {
+        "id": 19,
+        "name": "Sadio Mane",
+        "position": "FORWARD",
+        "number": 24,
+        "image": "assets/images/team/sadio.png",
+        "social": {
+            "facebook": "https://www.facebook.com/sadiomane",
+            "twitter": "https://www.twitter.com/sadiomane",
+            "linkedin": "https://www.linkedin.com/in/sadiomane"
+        }
+    },
+    {
+        "id": 20,
+        "name": "Paul Pogba",
+        "position": "MID-FIELDER",
+        "number": 8,
+        "image": "assets/images/team/paul.png",
+        "social": {
+            "facebook": "https://www.facebook.com/paulpogba",
+            "twitter": "https://www.twitter.com/paulpogba",
+            "linkedin": "https://www.linkedin.com/in/paulpogba"
+        }
+    }
+]
